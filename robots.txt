@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gitlab.com/marketing-made-magical/site/sitemap.xml
